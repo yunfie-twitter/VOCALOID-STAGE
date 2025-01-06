@@ -1,5 +1,7 @@
 # Misskey 利用規約テンプレート
 
+![logo](https://github.com/user-attachments/assets/b1c0f1a6-742d-403b-84e2-ad9a37525e52)
+
 Misskey 運営に特化して制作した利用規約のテンプレートです。
 各サーバーに応じて修正などを行いご自由にお使いください。
 
