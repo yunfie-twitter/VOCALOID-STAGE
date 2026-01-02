@@ -204,6 +204,7 @@ GDPR 圏、EU 圏に居住する利用者に関しては日本国法の範囲内
 2025 年 09 月 08 日　初版発行
 
 代表　 ゆんふぃ 　連絡先　misskey@pjsekai.world 
-
+ActivityPub
+https://pjsekai.world/@yunfie
 ---
 
